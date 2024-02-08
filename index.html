@@ -1,47 +1,77 @@
-<!doctype html>
-<html>
-<head>
-  <title>BOLA 8 MÁGICA</title>
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+   
 
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700|Montserrat:400,700' rel='stylesheet' type='text/css'>
-  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-  <script type="text/javascript" src="script.js"></script>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  
-</head>
+    <title>Invitación a San Valentín</title>
 
+  </head>
   <body>
-  <div class="page">
+    <div class="container">
+      <div id="gifContainer">
+        <img id="gifContainerImg" src="https://media.tenor.com/p-RObpOP85IAAAAM/smiling-smiling-cat.gif"
+        alt="Ositos Iniciales">
+      </div>
+      <div id="happyGifContainer" style="display: none">
+        <img
+          src="https://media1.tenor.com/m/R523PrjmJ_4AAAAC/spdegguk-cloudvmink.gif"
+          alt="Ositos Felices"
+          style="width: 100%; height: 100%"
+        />
+      </div>
+      <div id="happyGifContainer2" style="display: none">
+        <img
+          src="https://media1.tenor.com/m/FYNxw94D8IQAAAAd/spongebob-friend.gif"
+          alt="Ositos Felices"
+          style="width: 100%; height: 100%"
+        />
+      </div>
+      <div id="happyGifContainer3" style="display: none">
+        <img
+          src="https://media1.tenor.com/m/4iD7NZWY8gUAAAAd/monkey-kiss.gif"
+          alt="Ositos Felices"
+          style="width: 100%; height: 100%"
+        />
+      </div>
+      <div id="happyGifContainer4" style="display: none">
+        <img
+          src="https://media1.tenor.com/m/ODcA3RsuMQgAAAAd/monkey-selfie.gif"
+          alt="Ositos Felices"
+          style="width: 100%; height: 100%"
+        />
+      </div>
+      <div id="sadGifContainer" style="display: none">
+        <img
+          src="https://media1.tenor.com/m/k5OuZ0gnsh8AAAAd/dandy.gif"
+          alt="Osito Triste"
+          style="width: 80%; height: 80%"
+        />
+      </div>
+      <div id="sadGifContainer1" style="display: none">
+        <img
+          src="https://media1.tenor.com/m/Rd9u9Bz7TdUAAAAC/lionelmessi-kingmessi.gif"
+          alt="Osito Triste"
+          style="width: 80%; height: 80%"
+        />
+      </div>
+      <div id="sadGifContainer2" style="display: none">
+        <img
+          src="https://media1.tenor.com/m/Bm0gb6qmNEwAAAAC/messi.gif"
+          alt="Osito Triste"
+          style="width: 80%; height: 80%"
+        />
+      </div>
 
-    <header>
-      <h1>BOLA <span>8</span> MAGICA</h1>
-    </header>
+      <h1 id="question">¿Quieres ser mi San Valentín?</h1>
+      <div id="messageContainer" style="display: none"></div>
 
-    <div class="ball" style="position:relative; width:80%" >
-
-      <p id="answer" class="answer">
-        AQUÍ ES DONDE VA LA RESPUESTA
-      </p>
-
-       <img id="8ball" src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/09/magic8ballQuestion.png" alt="Magic 8 Ball">
-
+      <button id="siBtn">Sí</button>
+      <button id="noBtn">No</button>
     </div>
 
-    <br><br>
-
-    <div class="button" style="position:relative; width:80%">
-      <button id="questionButton">PREGUNTAME ALGO </button>
-    </div>
-
-    <footer>
-      <p>&copy; HLC SMR</p>
-    </footer>
-
-
-  <script type="text/javascript" src="https://educacionadistancia.juntadeandalucia.es/centros/granada/pluginfile.php/654277/mod_assign/introattachment/0/script.js"></script>
-
-  </div>
+    <script src="script.js"></script>
   </body>
-
 </html>
