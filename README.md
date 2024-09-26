@@ -7,6 +7,6 @@
 ---
 # Quick Link #
 -
-# Website: [Mi página Web](https://Alfonso279.github.io)
+* Website: [Mi página Web](https://Alfonso279.github.io)
 
-![Zaidín Vergeles](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpxhere.com%2Fes%2Fphoto%2F112653&psig=AOvVaw21visMoKKfMbhxrxB_tLyZ&ust=1727423205176000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiei4aP4IgDFQAAAAAdAAAAABAE)
+![Zaidín Vergeles](https://upload.wikimedia.org/wikipedia/commons/0/02/Bicicletta_Bianchi_1950-1952_-_Museo_scienza_e_tecnologia_Milano.jpg)
