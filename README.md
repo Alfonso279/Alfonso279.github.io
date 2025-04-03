@@ -8,6 +8,7 @@ Este proyecto va a tratar sobre una página web para una empresa de fitness, má
 - Formulario de contacto para consultas y suscripciones
 - Fin de la página con la integración con redes sociales para estar siempre conectados
 
-
+**Código y problemas**
+- En la sección quienes somos he introducido en el código, más expecíficamente en el css del texto un line-height. No lo hemos visto pero es facil de utilizar, simplemente que el espacio de salto de línea es algo más largo.
 
 Hecho por **Alfonso Perales Ortiz**.
