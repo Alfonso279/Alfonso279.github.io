@@ -90,6 +90,7 @@ header{
     margin-top: 50px;
     display: flex;
     flex-direction: row;
+    gap: 20px;
     color: white;
     padding: 20px;
     width: 100%;
