@@ -99,6 +99,9 @@ header{
 }
 
 .primeraseccion .texto-intro{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
     width: 60%;
     text-align: justify;
 }
@@ -407,7 +410,7 @@ footer {
 
     .primeraseccion {
         flex-direction: column;
-        gap: 30px;
+        gap: 30pxF;
     }
 
 }
