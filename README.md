@@ -25,8 +25,8 @@ El sitio web está diseñado para ofrecer a los usuarios una experiencia intuiti
 
 ## 📸 Capturas de Pantalla
 
-![Captura de Pantalla 1](fotosPerfil/atreum1.webp)
-![Captura de Pantalla 2](fotosPerfil/atreum2.webp)
+![Captura de Pantalla 1](atreum2.web)
+![Captura de Pantalla 2](atreum3.webp)
 
 ## 🚀 Cómo Visualizar el Sitio
 
